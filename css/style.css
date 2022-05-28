@@ -1,0 +1,56 @@
+.about_coathtech{
+  position: relative;
+}
+
+.about_coathtech-ttl {
+  position: absolute;
+  margin-top: -8%;
+  margin-left: 3%;
+  font-size: 30px;
+  font-weight: bold;
+  color: navy;
+}
+
+.inline-block{
+  position: absolute;
+  text-indent: 0em;
+  display: inline-block;
+  margin-top: -7%;
+  margin-left: 70%;
+  font-weight: bold;
+  color: navy;
+}
+
+.relative {
+  position: relative;
+}
+
+.ensyu_box{
+  position: absolute;
+  width: 75%;
+  height: 200px;
+  margin: 25% 0 0 2%;
+  display: block;
+  background-color: navy;
+  z-index: -10;
+}
+
+.ensyu_img {
+  margin: 300px auto 0;
+  margin-left: 50%;
+  width: 45%;
+  display: block;
+  z-index: 0;
+}
+
+.absolute {
+  position: absolute;
+  margin-top: -10%;
+  left: 2%;
+  ;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: "Noto Serif JP", serif;
+}
